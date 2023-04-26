@@ -1,6 +1,6 @@
 # Community Call Meeting Notes Repo 🕶️
 
-👋 Welcome to the Community Call Meeting Notes Repo! This repocapturesg meeting notes from community calls (technical and business). 
+👋 Welcome to the Community Call Meeting Notes Repo! This repo captures meeting notes from community calls (technical and business). 
 
 # How does this work? 
 
